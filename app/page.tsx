@@ -1,5 +1,5 @@
-import QuoteGenerator from "../quote-generator"
+import ImageGallery from "../image-gallery"
 
 export default function Page() {
-  return <QuoteGenerator />
+  return <ImageGallery />
 }
