@@ -1,7 +1,21 @@
 {
-  "name": "random-quote-generator",
-  "version": "0.1.0",
+  "name": "financial-health-dashboard",
+  "version": "1.0.0",
   "private": true,
+  "description": "A comprehensive financial health dashboard for SMEs with real-time insights, forecasting, and Power BI-style analytics",
+  "keywords": [
+    "financial-dashboard",
+    "sme",
+    "business-intelligence",
+    "analytics",
+    "forecasting",
+    "power-bi",
+    "financial-planning",
+    "react",
+    "nextjs"
+  ],
+  "license": "MIT",
+  "author": "Your Name",
   "scripts": {
     "build": "next build",
     "dev": "next dev",
@@ -9,7 +23,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "@radix-ui/react-select": "^2.0.0",
     "@radix-ui/react-slot": "^1.0.2",
+    "@radix-ui/react-tabs": "^1.0.4",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",

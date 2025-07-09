@@ -1,5 +1,5 @@
-import ImageGallery from "../image-gallery"
+import FinancialDashboard from "../financial-dashboard"
 
 export default function Page() {
-  return <ImageGallery />
+  return <FinancialDashboard />
 }
