@@ -1,5 +1,5 @@
-import FinancialDashboard from "../financial-dashboard"
+import FastChatbot from "../fast-chatbot"
 
 export default function Page() {
-  return <FinancialDashboard />
+  return <FastChatbot />
 }
